@@ -30,7 +30,8 @@
 
 body {
     /* font-family: "Space Grotesk", monospace; */
-    font-family: "Exo", sans-serif;
+    /* font-family: "Exo", sans-serif; */
+    font-family: "League Spartan", sans-serif;
     background: #676767;
     padding: 40px 20px;
 }
@@ -73,7 +74,7 @@ body {
     left: 50%;
     transform: translateX(-50%);
     font-size: 1.2rem;
-    font-weight: 600;
+    font-weight: 800;
     color: #888888;
     opacity: 1;
     transition: opacity 0.3s ease;
@@ -95,6 +96,7 @@ body {
     width: 20px;
     height: auto;
     margin-left: 8px;
+    margin-bottom: 4px;
     vertical-align: middle;
     opacity: 0.50;
 }
